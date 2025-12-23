@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm David Carvalho
 
-<!--
-**David-Avantgard/David-Avantgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💼 **Gestor de Processos & Negócios** com forte vivência em estruturação de empresas, melhoria de processos internos e visão estratégica.  
+💻 Em transição e evolução constante para a área de **Tecnologia**, conectando gestão com desenvolvimento técnico.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+
+- 🔭 Background sólido em **gestão empresarial, processos gerenciais e liderança**
+- 🌱 Atualmente estudando **HTML, CSS e Front-end**
+- ⚙️ Conhecimentos em **Arduino e C++**
+- 🎓 **Pós-graduando em Sistemas Embarcados**
+- 🤝 Interessado em projetos que unam **tecnologia, automação e eficiência de processos**
+- 🧠 Acredito que código com visão de negócio gera mais valor
+
+---
+
+### 🛠️ Tech & Skills
+
+- **Front-end:** HTML | CSS (em evolução)
+- **Embedded Systems:** Arduino | C++
+- **Gestão:** Processos empresariais | Estratégia | Melhoria contínua
+- **Mindset:** Aprendizado contínuo | Organização | Visão sistêmica
+
+---
+
+### 📫 How to reach me
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/david-carvalho-9500a993/*
+- 📧 Email: *davidaraujo.gestor@gmail.com*
+
+---
+
+### 😄 Pronouns
+He / Him
+
+---
+
+⚡ *Fun fact:* Estou aprendendo a programar depois de anos liderando empresas — hoje meu desafio é unir lógica, código e visão estratégica em um só caminho.
