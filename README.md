@@ -8,7 +8,7 @@
 ### 🚀 About me
 
 - 🔭 Background sólido em **gestão empresarial, processos gerenciais e liderança**
-- 🌱 Atualmente estudando **HTML, CSS e Front-end**
+- 🌱 Em constante evolução **HTML, CSS e Front-end**
 - ⚙️ Conhecimentos em **Arduino e C++**
 - 🎓 **Pós-graduando em Sistemas Embarcados**
 - 🤝 Interessado em projetos que unam **tecnologia, automação e eficiência de processos**
@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech & Skills
 
-- **Front-end:** HTML | CSS (em evolução)
+- **Front-end:** HTML | CSS | JavaScript
 - **Embedded Systems:** Arduino | C++
 - **Gestão:** Processos empresariais | Estratégia | Melhoria contínua
 - **Mindset:** Aprendizado contínuo | Organização | Visão sistêmica
@@ -32,4 +32,4 @@
 
 ---
 
-⚡ *Fun fact:* Estou aprendendo a programar depois de anos liderando empresas — hoje meu desafio é unir lógica, código e visão estratégica em um só caminho.
+⚡ *Fun fact:* Depois de anos liderando empresas — hoje meu desafio é unir lógica, código e visão estratégica em um só caminho.
