@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm David Carvalho
 
 👨‍💼 **Gestor de Processos & Negócios** com forte vivência em estruturação de empresas, melhoria de processos internos e visão estratégica.  
-💻 Em transição e evolução constante para a área de **Tecnologia**, conectando gestão com desenvolvimento técnico.
+💻 Em evolução constante na área de **Tecnologia**, conectando gestão com desenvolvimento técnico.
 
 ---
 
@@ -28,12 +28,7 @@
 ### 📫 How to reach me
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/david-carvalho-9500a993/*
-- 📧 Email: *davidaraujo.gestor@gmail.com*
-
----
-
-### 😄 Pronouns
-He / Him
+- 📧 Email: *davidaraujo.gestor@icloud.com*
 
 ---
 
